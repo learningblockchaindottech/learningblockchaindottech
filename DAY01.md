@@ -1,6 +1,8 @@
 08:00-09:00 Introductions and Course Overview
 
-09:00-10:00 The Why? How? What? of Bitcoin and Blockchains
+09:00-12:00 Introduction to Bitcoin and Blockchains
+
+The Why? How? What? of Bitcoin and Blockchains
 
 Why? Money and other transactional data is subject to corruption when controlled by trusted third parties.
 
@@ -8,23 +10,36 @@ How? Decentralize control of transactions and transaction data storage using a p
 
 What? A blockchain is a chain of blocks - Peter Todd. ...
 
-10:00-11:00 Core Concepts Overview
+Core Concepts Overview
 
-In this overview we'll introduce core concepts and terms related to Bitcoin and blockchains without diving too deeply into any one topic.
+In this overview we'll introduce core concepts and terms related to Bitcoin and blockchains without diving deeply into any one topic.
 
-Quiz 1 (Quizzes will be short, interactive and mobile phone based.)
+- Public Key Cryptography
+- Private Keys
+- Public Keys
+- Bitcoin Addresses
+- Wallets
+- Transactions
+- UTXOs
+- Bitcoin Script
+- Peer-to-Peer
+- Nodes
+- Merkle Tree
+- Blocks
+- Mining
 
-11:00-12:00 Play Bitcoin Mining Bingo
-
-We'll play a Bingo-style game that will help you learn how blockchains work in a hands on way. 
-
-Quiz 2
+Quiz (Quizzes will be short, interactive and mobile phone based.)
 
 12:00-13:00 Lunch
 
-13:00-16:00 Run Your Own Full Node
+13:00-14:00 Play Bitcoin Mining Bingo
 
-You don't really understand Bitcoin or blockchains until you run your own fully validating blockchain node. Let's get our hands dirty and run a local testnet.
+We'll play a Bingo-style game that will help you learn how blockchains work in a hands on way. 
+
+14:00-17:00 Run Your Own Full Node
+
+You don't really understand Bitcoin or blockchains until you run your own fully validating blockchain node. Let's get our hands dirty and run a local testnet.[1]
+
 
 - A quick start intro to running a full node.
 - Config file.
@@ -37,11 +52,7 @@ You don't really understand Bitcoin or blockchains until you run your own fully 
 - View peer-to-peer network info.
 - Qt GUI
 
-Quiz 3
-
 16:00-17:00 Fun With Paper Wallets
-
-Quiz 4
 
 17:00-18:00 Pizza
 
@@ -52,8 +63,13 @@ Quiz 4
 - Send coins to a friend.
 - Multisig.
 
-Quiz 5
-
-19:00-20:00 Concept Review / Q&A Session
+19:00-20:00 Concept Review / Quiz / Q&A Session
 
 End of official course content for day 1.
+
+
+[1] Proposed methods:
+  - VPS
+  - Amazon Cloud Workstation
+  - Inexpensive Linux laptop which student has the option to purchase - bonus if this laptop is capable of running a Bitcoin full node when the student gets home
+  - Raspberry Pi (downside is need for Keyboard, Monitor, Mouse... cheap laptop is probably better
