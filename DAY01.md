@@ -40,7 +40,10 @@ We'll play a Bingo-style game that will help you learn how blockchains work in a
 
 You don't really understand Bitcoin or blockchains until you run your own fully validating blockchain node. Let's get our hands dirty and run a local testnet.[1]
 
-
+- Introduction to:
+ - Linux
+ - Command Line
+ - Shell Scripting
 - A quick start intro to running a full node.
 - Config file.
 - How to view log files.
