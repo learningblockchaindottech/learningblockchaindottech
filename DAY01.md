@@ -70,6 +70,52 @@ You don't really understand Bitcoin or blockchains until you run your own fully 
 
 End of official course content for day 1.
 
+Start Day 2
+
+08:00-09:00 Brief Review of Day 1, Q&A, Overview of Day 2
+
+09:00-11:00 Public and Private Keys in More Detail
+
+- ECC
+- Random numbers
+- Private Keys
+- Public Keys
+- Addresses
+- Base58Check Encoding
+- bitcoin-cli
+- bx
+- Generate a Vanity Addresses
+
+11:00-12:00 The Anatomy of a Bitcoin Transaction
+
+- What is a transaction?
+- What's in a transaction?
+- How do fees work?
+- Transaction scripts.
+- Hexadecimal.
+- Transaction serialization.
+- UTXO
+
+12:00-13:00 Lunch
+
+13:00-14:00 Introduction to JavaScript
+
+14:00-15:00 Hands on With JavaScript
+
+15:00-16:00 Construct and push a Bitcoin (testnet) transaction with JavaScript
+
+16:00-17:00 Write a smart contract in Bitcoin Script
+
+17:00-18:00 Dinner
+
+18:00-19:00 Introduction to Segregated Witness
+
+- Construct and push a Segwit transaction.
+
+19:00-20:00 Review, Q&A
+
+End of Day 2.
+
 
 [1] Proposed methods:
   - VPS
