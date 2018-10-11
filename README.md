@@ -1,4 +1,4 @@
-# learningblockchaindottech
+# LearningBlockchain.Tech
 
 This is a code and shared info repository for the LearningBlockchain.Tech Series of Seminars.
 
