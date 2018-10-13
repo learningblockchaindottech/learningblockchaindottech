@@ -56,8 +56,6 @@ else
     sudo swapon /swapfile
 fi
 
-exit 1
-
 echo "Installing dependencies for Bitcoin."
 
 sudo add-apt-repository ppa:bitcoin/bitcoin
@@ -103,7 +101,6 @@ cd $HOME/code/bitcoin
 
 if [ -x bitcoin ]; then
     echo "The 'bitcoin' daemon appears to be built already. Skipping make."
-else
 else
     echo "Building Bitcoin daemon from source code."
 
