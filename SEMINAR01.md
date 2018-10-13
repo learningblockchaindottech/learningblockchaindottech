@@ -122,3 +122,8 @@ End of Day 2.
   - Amazon Cloud Workstation
   - Inexpensive Linux laptop which student has the option to purchase - bonus if this laptop is capable of running a Bitcoin full node when the student gets home
   - Raspberry Pi (downside is need for Keyboard, Monitor, Mouse... cheap laptop is probably better
+
+
+Notes/misc/ideas:
+
+Have students make a simple comit, push, pull request to the course git repo - perhaps adding their name to a roster.
